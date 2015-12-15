@@ -1,0 +1,8 @@
+C:\Users\Bady\documents\visual studio 2010\Projects\Forumspy\Forumspy\bin\Debug\Forumspy.exe
+C:\Users\Bady\documents\visual studio 2010\Projects\Forumspy\Forumspy\bin\Debug\Forumspy.pdb
+C:\Users\Bady\documents\visual studio 2010\Projects\Forumspy\Forumspy\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bady\documents\visual studio 2010\Projects\Forumspy\Forumspy\obj\x86\Debug\Forumspy.exe
+C:\Users\Bady\documents\visual studio 2010\Projects\Forumspy\Forumspy\obj\x86\Debug\Forumspy.pdb
+C:\Users\Bady\Documents\Visual Studio 2010\Projects\Forumspy\Forumspy\obj\x86\Debug\WindowsFormsApplication1.Forumpointspy.resources
+C:\Users\Bady\Documents\Visual Studio 2010\Projects\Forumspy\Forumspy\obj\x86\Debug\Forumspy.csprojResolveAssemblyReference.cache
+C:\Users\Bady\Documents\Visual Studio 2010\Projects\Forumspy\Forumspy\obj\x86\Debug\Forumspy.csproj.GenerateResource.Cache
